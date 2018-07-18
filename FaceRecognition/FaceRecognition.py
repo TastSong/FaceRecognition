@@ -32,4 +32,4 @@ def FaceRecognition(imgFilePath):
 
 if __name__ == "__main__":
     beauty = FaceRecognition("img/1.jpg")
-    print('beauty = ', beauty)
+    print('beauty = ', beauty) #此处只用人脸的魅力值做演示
