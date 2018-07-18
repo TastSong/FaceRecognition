@@ -12,5 +12,5 @@ FaceRecognition
 
 * pycharm IDE
 * python3
-* [百度AI]（http://ai.baidu.com/)
+* [百度AI](http://ai.baidu.com/)
 * 一般只需要安装百度AI模块就行，pip install baidu-aip
