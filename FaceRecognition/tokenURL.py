@@ -3,10 +3,9 @@ import ssl
 from urllib.request import urlopen
 import json
 
-AK = "yuZAGBb5s2h3og5Fl1DxRsji"
-SK = "0KoZEsIGeucYjVvMTnUKWt8UcI3F7IpO"
+AK = "你的AK"
+SK = "你的SK"
 
-# token 请求 url 与图片不一样
 # token 请求 url 与图片不一样
 host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials' \
        '&client_id=%s' \
